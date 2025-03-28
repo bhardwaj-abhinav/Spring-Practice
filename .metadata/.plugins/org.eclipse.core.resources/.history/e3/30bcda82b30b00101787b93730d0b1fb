@@ -1,0 +1,16 @@
+package com.abhi.it;
+
+public class Car {
+	
+	public Car(){
+		System.out.println("Its Car");
+	}
+	
+	public void drive() {
+//		boolean start = eng.start();
+//		if(start == true) {
+//			System.out.println("Journey Started...");
+//		}
+		
+	}
+}
